@@ -1,0 +1,577 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<tbody
+  class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+  data-testid="table-data"
+>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      R2-D2
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      96
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      32
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      555
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      333
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        test Planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      Owen Lars
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      178
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      120
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        another test planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      Obi-Wan Kenobi
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      182
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      77
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        test Planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      Luke Skywalker
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      172
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      77
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      111
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      111
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        test Planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      Leia Organa
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      150
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      49
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      555
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        test Planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      Darth Vader
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      202
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      136
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        another test planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      C-3PO
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      167
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      75
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      111
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      222
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        test Planet
+      </div>
+    </td>
+  </tr>
+</tbody>
+`;
+
+exports[`renders learn react link 2`] = `
+<tbody
+  class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+  data-testid="table-data"
+>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      C-3PO
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      167
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      75
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      111
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      222
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        test Planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      Darth Vader
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      202
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      136
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        another test planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      Leia Organa
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      150
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      49
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      555
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        test Planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      Luke Skywalker
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      172
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      77
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      111
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      111
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        test Planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      Obi-Wan Kenobi
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      182
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      77
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        test Planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      Owen Lars
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      178
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      120
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      55
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        another test planet
+      </div>
+    </td>
+  </tr>
+  <tr
+    class="MuiTableRow-root MuiTableRow-hover css-1q1u3t4-MuiTableRow-root"
+    style="height: 33px;"
+    tabindex="-1"
+  >
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      R2-D2
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      96
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      32
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      555
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      333
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium Table-Row css-1ex1afd-MuiTableCell-root"
+    >
+      <div
+        class="Planet-Row"
+      >
+        test Planet
+      </div>
+    </td>
+  </tr>
+</tbody>
+`;

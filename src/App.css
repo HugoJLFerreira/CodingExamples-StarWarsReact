@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.Planet-dialog {
+  width: 400px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +39,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Table-Row {
+  padding: 8px !important;
+}
+
+.Box-Table {
+  width: 95%;
+}
+
+.Planet-Row {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#planet-dialog-slide-description {
+  padding-left: 90px;
+}
+
+.Planet-dialog-title {
+  margin-bottom: 0;
 }

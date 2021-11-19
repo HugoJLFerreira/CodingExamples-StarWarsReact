@@ -1,25 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import UserList from "./components/UserListContainer";
+import "./App.css";
+import LoadData from "./services/LoadDataContainer";
+import { connect } from "react-redux";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <LoadData />
+        <UserList />
       </header>
     </div>
   );
 }
 
-export default App;
+export default connect()(App);
